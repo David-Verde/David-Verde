@@ -2,7 +2,6 @@
 
 
 ### Hi there 👋 my name is David Verde, i´m a software developer with 3 years of experience, i used to work in a marketing company, were a learn to create front-end projects, using my experience on graphic design and Html-Css, i´m studying at microverse to expand my knowledge on programming, I'm a self learner and that's one of my best qualities, because i never say NO to a project and I always find a solution to every issue in a project. I spent the last months working with remote partners and companies, working in different time zones, so I know I can be a good remote worker for your company.
-
 I have a new project that I'm working on in javascript. Would you like to check the code with me?
  * Feel free to check my portfolio here: https://portfolio-david-verde.netlify.app
 
