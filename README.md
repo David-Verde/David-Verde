@@ -7,3 +7,5 @@ I have a new project that I'm working on in javascript. Would you like to check 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Verde&show_icons=true&theme=radical)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=David-Verde)
